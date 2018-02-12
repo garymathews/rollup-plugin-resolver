@@ -1,0 +1,17 @@
+{
+  "name": "rollup-plugin-resolver",
+  "description": "resolve imports with content from memory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garymathews/rollup-plugin-resolver.git"
+  },
+  "keywords": ["rollup"],
+  "author": "Gary Mathews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garymathews/rollup-plugin-resolver/issues"
+  },
+  "homepage": "https://github.com/garymathews/rollup-plugin-resolver"
+}
